@@ -1,58 +1,68 @@
- <!doctype html>
- <html>
- <head>
-    <meta chaset="UTF-8">
-    <title> Ensinamentos do carlos</title>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Ensinamentos do Carlos ou concretos Carlos</title>
     <style>
-        h1{
-            font-famili: Arial;
+        h1 {
+            font-family: Arial;
             font-size: 30pt;
             color: aquamarine;
             text-shadow: 2px 2px 2px blue;
         }
     </style>
     <style>
-        h2{
+        h2 {
             font-family: monospace;
             font-size: 30pt;
             color: blueviolet;
             text-shadow: 2px 2px 2px pink;
-        } 
-    </style>
-    <style>
-        h3{
-            font-family: fantasy;
-            font-size: 30pt;
-            color: crimson;
-            text-shadow: 2px 2px 2px  green;
         }
     </style>
     <style>
-        h4{
+        h3 {
+            font-family: fantasy;
+            font-size: 30pt;
+            color: crimson;
+            text-shadow: 2px 2px 2px green;
+        }
+    </style>
+    <style>
+        h4 {
             font-family: serif;
             font-size: 30pt;
             color: fuchsia;
             text-shadow: 2px 2px 2px black;
         }
     </style>
- 
- </head>
- <body>
+    <style>
+        p{
+            font-family: sans-serif;
+            font-size: 30pt;
+            color: chartreuse;
+            text-shadow: 2px 2px 2px black;
+        }
+    </style>
+</head>
+<body>
     <div id="interface">
-    <img src="https://www.istockphoto.com/photo/sunrise-sun-clouds-and-sea-nascer-do-sol-mar-e-horizonte-gm1025066624-275008508?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fnascer-do-sol&utm_term=nascer%20do%20sol%3A%3A%3A"/>
-afiliados digitais
-aplicativos pra ganhar dinheiro
-Cursos
-Livros    
-    <h1>Olá, Mundo!</h1>
-    <p>Oi vamos </p>
-    <h2>Procurando conhecimento e me livrando da procrastinação</h2>
-    <h3>Proibido deixar o medo de erra falar mais alto que sua vontade de fazer</h3>
-    <h4>Onde vai ser o almoço hoje?</h4>
-   
-
- 
-  
- </div>
- </body>
- </hmtl>
+        <header id="cabecalho">
+        <h1 style="text-align: center;">Olá, Mundo!</h1>
+        <p style="text-align: justify;">Hoje to aki pra apresntar um pouco mais sobre o que o blogger o que vamos falar mais e quero apresentar sobre o que eu posso ta apresentando um pouco do meu conhecimento sobre algumas de formas de poder monetizar o seu tempo na internet para poder ganhar uma renda extra e poder realizar todos as suas vantades,imagina você poder realizar todos os sonhos e vantades que você tem poder até mesmo poder ajudar mais em casa e mais ainda poder te dar a liberdade de poder ir no shopping e poder ter essa liberdade de ir e gastar e sem ficar com o sentimento de culpa que gastou um dinheiro que você podia ter usado pra uma coisa que você deveria ter usado para compra alguma coisa que você ta precisando ou pagar uma conta ou ate mesmo precisar pra compra alguma coisa pra casa e você podendo ter essa renda extra você vai conseguir colocar esse dinheiro a mais em casa ou para seu uso proprio</p>
+        <video width="1080" height="720" controls>
+        <source src="https://www.youtube.com/watch?v=1-hm8bTcxj0" type="video/mp4"> 
+        Your browser does not support the video tag.
+        </video>
+        <h2 style="text-align: center;">Procurando conhecimento e me livrando da procrastinação</h2>
+        <p style="text-align: justify;">Uma coisa que eu demorei para poder aprender foi que tudo que gostamos a gente sempre procura aprender e sempre que a agente não tem preguiça de aprender ou de fazer aquilo é uma fora da gente saber que é nosso caminho para nossa felicidade como uma vez o mano Brow falou "viver do que gosta é para poucos e o que você ta fazendo para isso?"</p>
+        <video width="720" height="1280" controls> 
+        <source src="https://www.youtube.com/watch?v=V1520gQAn2o" type="video/mp4"></video>
+        <h3>Proibido deixar o medo de erra falar mais alto que sua vontade de fazer</h3>
+        <h4>Onde vai ser o almoço hoje?</h4>
+        </header>
+    </div>
+    
+        
+</body>
+</html>
