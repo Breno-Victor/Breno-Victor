@@ -56,7 +56,8 @@
         <h2 style="text-align: center;">Procurando conhecimento e me livrando da procrastinação</h2>
         <p style="text-align: justify;">Uma coisa que eu demorei para poder aprender foi que tudo que gostamos a gente sempre procura aprender e sempre que a agente não tem preguiça de aprender ou de fazer aquilo é uma fora da gente saber que é nosso caminho para nossa felicidade como uma vez o mano Brow falou "viver do que gosta é para poucos e o que você ta fazendo para isso?"</p>
         <video width="720" height="1280" controls> 
-        <source src="https://www.youtube.com/watch?v=V1520gQAn2o" type="video/mp4"></video>
+        <source src="https://www.youtube.com/watch?v=V1520gQAn2o" type="video/mp4">
+        </video>
         <h3>Proibido deixar o medo de erra falar mais alto que sua vontade de fazer</h3>
         <h4>Onde vai ser o almoço hoje?</h4>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hQOhzepDOlEJuxZiEbtUTmZZwaMGZhIdhg&usqp=CAU"/>
