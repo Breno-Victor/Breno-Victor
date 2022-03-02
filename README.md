@@ -62,7 +62,7 @@
         <h4>Onde vai ser o almoço hoje?</h4>
             <p>O almoço hoje vai se no japão pra poder comer aquele lamen junto com nosso amigo naruto</p>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hQOhzepDOlEJuxZiEbtUTmZZwaMGZhIdhg&usqp=CAU"/>
-            <p>MATHEUS PIRES</p>
+            <p>MATHEUS PIRES </BR> CHEFE LEANDRO MOREIRA</p>
         </header>
     </div>
     
