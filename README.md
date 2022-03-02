@@ -60,6 +60,7 @@
         </video>
         <h3>Proibido deixar o medo de erra falar mais alto que sua vontade de fazer</h3>
         <h4>Onde vai ser o almoço hoje?</h4>
+            <p>O almoço hoje vai se no japão pra poder comer aquele lamen junto com nosso amigo naruto</p>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hQOhzepDOlEJuxZiEbtUTmZZwaMGZhIdhg&usqp=CAU"/>
         </header>
     </div>
