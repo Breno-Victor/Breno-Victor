@@ -59,6 +59,7 @@
         <source src="https://www.youtube.com/watch?v=V1520gQAn2o" type="video/mp4"></video>
         <h3>Proibido deixar o medo de erra falar mais alto que sua vontade de fazer</h3>
         <h4>Onde vai ser o almoço hoje?</h4>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1055390493896112386%2F&psig=AOvVaw1PM-d4D_iSxKwyiyxwN-O7&ust=1646316808350000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIC1opbOp_YCFQAAAAAdAAAAABAI"/>
         </header>
     </div>
     
