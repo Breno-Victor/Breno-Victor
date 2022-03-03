@@ -63,9 +63,9 @@
             <p>Vai ser no ponto da picanha por conta do Carlos</p>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hQOhzepDOlEJuxZiEbtUTmZZwaMGZhIdhg&usqp=CAU"/>
             <p>Carlos </BR> Carlos</p>
-	  	<video width="1080" height="720" controls>
-		<source src="https://www.youtube.com/watch?v=5ELPxOHef-o" type="video/mp4">
-		</video>
+	<video width="560" height="315" controls>
+	<source src="https://www.youtube.com/watch?v=5ELPxOHef-o" type="video/mp4">
+	</video>
         </header>
     </div>
     
