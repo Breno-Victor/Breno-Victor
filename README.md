@@ -36,6 +36,14 @@
         }
     </style>
     <style>
+	p{
+	    font-family: fantay;
+	    font-size: 30pt;
+	    color: blue:
+	    text-shadow: 2px 2px 2px black;
+	}
+    </style>	
+    <style>
         p{
             font-family: sans-serif;
             font-size: 30pt;
@@ -43,6 +51,7 @@
             text-shadow: 2px 2px 2px black;
         }
     </style>
+		
 </head>
 <body>
     <div id="interface">
@@ -66,9 +75,8 @@
 	<video width="560" height="315" controls>
 	<source src="https://www.youtube.com/watch?v=5ELPxOHef-o" type="video/mp4">
 	</video>
+	<p>>LEANDRO MOREIRA</p>
         </header>
-    </div>
-    
-        
+    </div>       
 </body>
 </html>
