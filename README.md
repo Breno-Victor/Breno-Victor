@@ -50,8 +50,7 @@
             color: chartreuse;
             text-shadow: 2px 2px 2px black;
         }
-    </style>
-		
+    </style>	
 </head>
 <body>
     <div id="interface">
@@ -75,8 +74,9 @@
 	<video width="560" height="315" controls>
 	<source src="https://www.youtube.com/watch?v=5ELPxOHef-o" type="video/mp4">
 	</video>
-	<p>>LEANDRO MOREIRA</p>
-        </header>
+	<p>Matheus Pires mais conhecido como parxeiro</p>
+	<p>E o almoço doutor? <br/> quando vai pagar aquele churras pra nos Carlos? <br/> fiquei sabendo que você ta Milhonario</p>
+	</header>
     </div>       
 </body>
 </html>
