@@ -41,22 +41,15 @@
 	    font-size: 30pt;
 	    color: blue:
 	    text-shadow: 2px 2px 2px black;
+	    text-align: justify;
 	}
-    </style>	
-    <style>
-        p{
-            font-family: sans-serif;
-            font-size: 30pt;
-            color: chartreuse;
-            text-shadow: 2px 2px 2px black;
-        }
     </style>	
 </head>
 <body>
     <div id="interface">
         <header id="cabecalho">
         <h1 style="text-align: center;">Olá, Mundo!</h1>
-        <p style="text-align: justify;">Hoje to aki pra apresntar um pouco mais sobre o que o blogger o que vamos falar mais e quero apresentar sobre o que eu posso ta apresentando um pouco do meu conhecimento sobre algumas de formas de poder monetizar o seu tempo na internet para poder ganhar uma renda extra e poder realizar todos as suas vantades,imagina você poder realizar todos os sonhos e vantades que você tem poder até mesmo poder ajudar mais em casa e mais ainda poder te dar a liberdade de poder ir no shopping e poder ter essa liberdade de ir e gastar e sem ficar com o sentimento de culpa que gastou um dinheiro que você podia ter usado pra uma coisa que você deveria ter usado para compra alguma coisa que você ta precisando ou pagar uma conta ou ate mesmo precisar pra compra alguma coisa pra casa e você podendo ter essa renda extra você vai conseguir colocar esse dinheiro a mais em casa ou para seu uso proprio</p>
+        <p>Hoje to aki pra apresntar um pouco mais sobre o que o blogger o que vamos falar mais e quero apresentar sobre o que eu posso ta apresentando um pouco do meu conhecimento sobre algumas de formas de poder monetizar o seu tempo na internet para poder ganhar uma renda extra e poder realizar todos as suas vantades,imagina você poder realizar todos os sonhos e vantades que você tem poder até mesmo poder ajudar mais em casa e mais ainda poder te dar a liberdade de poder ir no shopping e poder ter essa liberdade de ir e gastar e sem ficar com o sentimento de culpa que gastou um dinheiro que você podia ter usado pra uma coisa que você deveria ter usado para compra alguma coisa que você ta precisando ou pagar uma conta ou ate mesmo precisar pra compra alguma coisa pra casa e você podendo ter essa renda extra você vai conseguir colocar esse dinheiro a mais em casa ou para seu uso proprio</p>
         <video width="1080" height="720" controls>
         <source src="https://www.youtube.com/watch?v=1-hm8bTcxj0" type="video/mp4"> 
         Your browser does not support the video tag.
